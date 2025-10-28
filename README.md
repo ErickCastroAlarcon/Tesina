@@ -1,6 +1,4 @@
-# Tesina
-
-# Método de Monte Carlo para un fondo Cosmológico
+# Tesina: Método de Monte Carlo para un fondo Cosmológico
 
 ## Autor: Erick Castro A.
 
