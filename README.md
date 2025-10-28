@@ -1,8 +1,8 @@
 # Tesina
 
-# [Método de Monte Carlo para un fondo Cosmológico]
+# Método de Monte Carlo para un fondo Cosmológico
 
-## Autor: [Erick Castro A.]
+## Autor: Erick Castro A.
 
 > **Resumen (Abstract)**
 >
@@ -14,11 +14,11 @@
 
 | Detalle | Información |
 | :--- | :--- |
-| **Universidad** | [Universidad de Valparaiso] |
-| **Facultad** | [Facultad de Ciencias] |
-| **Carrera** | [Licenciatura en Física] |
-| **Tutor** | [Graeme Candlish] |
-| **Fecha de Defensa** | ["En progreso"] |
+| **Universidad** | Universidad de Valparaiso |
+| **Facultad** | Facultad de Ciencias |
+| **Carrera** | Licenciatura en Física |
+| **Tutor** | Graeme Candlish |
+| **Fecha de Defensa** | "En progreso" |
 
 ---
 
