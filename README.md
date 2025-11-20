@@ -1,4 +1,4 @@
-# Tesina: Método de Monte Carlo para un fondo Cosmológico
+# Tesina: Path Integral with Monte Carlo method for Cosmology
 
 ## Autor: Erick Castro A.
 
