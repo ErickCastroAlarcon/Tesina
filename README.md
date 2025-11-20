@@ -1,4 +1,4 @@
-# Tesina: Path Integral with Monte Carlo method for Cosmology
+# Tesina: Exploring Path Integral with Monte Carlo method for Cosmology
 
 ## Autor: Erick Castro A.
 
