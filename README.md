@@ -16,7 +16,7 @@
 | **Facultad** | Facultad de Ciencias |
 | **Carrera** | Licenciatura en Física |
 | **Tutor** | Graeme Candlish |
-| **Fecha de Defensa** | "En progreso" |
+| **Fecha de Defensa** | "18/12/2025" |
 
 ---
 
