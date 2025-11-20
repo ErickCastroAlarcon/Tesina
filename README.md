@@ -1,11 +1,6 @@
 # Tesina: Path Integral with Monte Carlo method for Cosmology
 
 ## Autor: Erick Castro A.
-<img src="https://github.com/user-attachments/assets/3b34e842-c110-4e3c-8adc-898c8c1e2653" alt="Descripción de la imagen"
-  width="300">
-
-  <img src="https://github.com/user-attachments/assets/de31eddf-33fe-4b12-b45d-7f99549389cf" width="300">
-
 
 > **Resumen (Abstract)**
 >
@@ -28,3 +23,6 @@
 ### 📂 Estructura del Repositorio
 
 Este repositorio contiene el código fuente para las simulaciones y análisis, así como el documento escrito de la tesina.
+
+<img src="https://github.com/user-attachments/assets/3b34e842-c110-4e3c-8adc-898c8c1e2653"
+  width="300"> <img src="https://github.com/user-attachments/assets/de31eddf-33fe-4b12-b45d-7f99549389cf" width="300">
