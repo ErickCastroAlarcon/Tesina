@@ -4,7 +4,7 @@
 
 > **Resumen (Abstract)**
 >
-> []
+> 
 
 ---
 
@@ -20,10 +20,11 @@
 
 ---
 
-### 📂 Estructura del Repositorio
+### 📂 Proposito del Repositorio
 
 Este repositorio contiene el código fuente para las simulaciones y análisis, así como el documento escrito de la tesina.
 
 
-<img src="https://github.com/user-attachments/assets/4d371b9f-0a9a-4330-8ea8-c63ff65819bc" width="300">          <img src="https://github.com/user-attachments/assets/de31eddf-33fe-4b12-b45d-7f99549389cf" width="300">               <img  src="https://github.com/user-attachments/assets/79e84ab6-9a9b-4a7a-a3b3-2b14f5dfbe63" width="300">
+<img src="https://github.com/user-attachments/assets/4d371b9f-0a9a-4330-8ea8-c63ff65819bc" width="300">          <img src="https://github.com/user-attachments/assets/de31eddf-33fe-4b12-b45d-7f99549389cf" width="300">               <img  src="https://github.com/user-attachments/assets/ad42977f-ced9-456d-ba47-276f1dcb2f1f" width="300">
+
 
