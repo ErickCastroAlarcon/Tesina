@@ -3,7 +3,7 @@
 ## Autor: Erick Castro A.
 
 > **Resumen (Abstract)**
->
+> Este trabajo explora la aplicación de métodos Monte Carlo basados en cadenas de Markov para el estudio no perturbativo de sistemas cuánticos definidos mediante integrales de camino
 > 
 
 ---
