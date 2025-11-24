@@ -5,6 +5,7 @@ https://arxiv.org/abs/hep-lat/0702020
 
 **H. W. Hamber, Quantum Gravitation: The Feynman
 Path Integral Approach (Springer, 2009)**
+
 Descripción: Hamber es quien sistematizó el uso de métodos de Montecarlo para calcular la integral de camino de la gravedad discretizada (Cálculo de Regge).
 
 ## Investigaciones Recientes en Cosmología Cuántica (2025)
